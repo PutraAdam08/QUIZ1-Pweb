@@ -1,0 +1,75 @@
+
+
+body{
+    margin: 0px;
+}
+
+#b{
+
+}
+
+#fade{
+    display: none;
+}
+#unfade{
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #ffffff;
+    background-position: center;
+    background-size: cover;
+}
+
+.FrontButton{
+    height: 24px;
+    width: 96px;
+    color: #8AA2B6;;
+    font-size: 12px;
+    font-weight: bold;
+    border-style: solid; 
+    border-color: #C4E4FF; 
+    border-width: 2px;
+    border-radius: 4px;
+    background-color: rgba(0,0,0,0);
+    margin-top: 8px;
+}
+
+.FrontButton:hover{
+    height: 24px;
+    width: 96px;
+    color: #dcefff;;
+    font-size: 12px;
+    font-weight: bold;
+    border-style: solid; 
+    border-color: #74abff; 
+    border-width: 2px;
+    border-radius: 4px;
+    background-color: #74abff;
+    margin-top: 8px;
+}
+
+.HomeImageBig{
+    height: 256px;
+    width: 342px;
+    background-color: white;
+}
+
+.HomeImageSmall{
+    height: 112px;
+    width: 128px;
+    background-color: white;
+}
+
+.HomeImageWide{
+    height: 256px;
+    max-width: 1072px;
+    background-color: white;
+}
+
+.HometownImage{
+    width: 100%
+}
+
+.bgg{
+    background-color: rgb(180, 180, 180);
+}
